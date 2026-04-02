@@ -3,7 +3,7 @@ package xml
 import (
 	"io"
 
-	"github.com/clbanning/mxj"
+	"github.com/clbanning/mxj/v2"
 	"github.com/luraproject/lura/v2/encoding"
 	"golang.org/x/net/html/charset"
 )

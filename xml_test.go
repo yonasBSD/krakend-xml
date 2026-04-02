@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/clbanning/mxj"
+	"github.com/clbanning/mxj/v2"
 )
 
 func TestNewDecoder_map(t *testing.T) {
