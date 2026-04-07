@@ -3,7 +3,7 @@ module github.com/krakend/krakend-xml/v2
 go 1.24.0
 
 require (
-	github.com/clbanning/mxj v1.8.4
+	github.com/clbanning/mxj/v2 v2.7.0
 	github.com/gin-gonic/gin v1.9.1
 	github.com/luraproject/lura/v2 v2.11.0
 	golang.org/x/net v0.47.0

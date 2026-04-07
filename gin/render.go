@@ -1,7 +1,7 @@
 package gin
 
 import (
-	"github.com/clbanning/mxj"
+	"github.com/clbanning/mxj/v2"
 	"github.com/gin-gonic/gin"
 	"github.com/luraproject/lura/v2/proxy"
 )
